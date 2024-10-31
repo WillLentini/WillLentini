@@ -8,6 +8,8 @@ I am a recent graduate from St. John's University who graduated with a Bachelor 
 
 # Objective
 
+My path to starting a career in tech started when I was a child, I was always interested in technology and how things worked, I took that passion and turned it into a degree in Cybersecurity. I aspire to start my career as either an IT Help Desk or a Information Security Analyst.
+
 # Skills
 
 | Skills                                      | Associated Project            |
