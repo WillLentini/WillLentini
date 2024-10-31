@@ -1,4 +1,4 @@
-# Hello, I'm William Lentini
+# Hello, I'm William
 
 <a href="https://www.linkedin.com/in/william-lentini-a0b38a234"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -18,6 +18,10 @@ I am a recent graduate from St. John's University who graduated with a Bachelor 
 | Using Software (Kryptos) to Hash/HMAC a Password | <a href="https://docs.google.com/document/d/1U5FVmxTzIrXbJSo1Jk0rG1kVlQpKt9kKZfH-riy-HPo/edit?tab=t.0">Hash/HMAC Functions Lab</a>|
 | Using Software (GPG/Kleopatra) to create keys for Encryption | <a href="https://docs.google.com/document/d/1lc-uE7f-F22aRpvmfsFxRCiP_kn8fIqTESNyyrjqlbA/edit?tab=t.0">GPG/Kleopatra Lab</a>|
 | Using Software (Kryptos) to create keys for Encryption | <a href="https://docs.google.com/document/d/1LPhNeeiGT36V59iqmKc6l-Dmv_Fi1JDeC3ex4DGrMvo/edit?tab=t.0">Symmetric Encryption using Kryptos Lab</a>|
+
+# Certifications
+<img src="https://img.shields.io/badge/-security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 <!--
 **WillLentini/WillLentini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
