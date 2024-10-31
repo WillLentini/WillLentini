@@ -12,8 +12,8 @@ I am a recent graduate from St. John's University who graduated with a Bachelor 
 
 | Skills                                      | Associated Project            |
 |--------------------------------------------|-------------------------------|
-| Intercepting and modifying HTTP traffic/Probing vulnerabilites by reissuing requests using a repeater    | <a href="https://docs.google.com/document/d/1G0kRI1qGbCPXHhijxz3moLuDKWLonv7gxHNY0yE71-k/edit?tab=t.0">Vulnerability Exploitation Lab</a>|
-| Capturing/inspecting packets using Wireshark | href="
+| Intercepting and modifying HTTP traffic/Probing Vulnerabilites by Reissuing Requests using a Repeater    | <a href="https://docs.google.com/document/d/1G0kRI1qGbCPXHhijxz3moLuDKWLonv7gxHNY0yE71-k/edit?tab=t.0">Vulnerability Exploitation Lab</a>|
+| Capturing/Inspecting Packets using Wireshark | <a href="https://docs.google.com/document/d/15eplFJDb11rc7R5M3-FOXbAJGs55WY1pU5BFO-rIF0c/edit">Wireshark Packet Lab</a>|
 <!--
 **WillLentini/WillLentini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
