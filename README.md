@@ -23,3 +23,7 @@ My path to starting a career in tech started when I was a child, I was always in
 
 # Certifications
 <img src="https://img.shields.io/badge/-security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+# Work In Progress
+<img src="https://img.shields.io/badge/-network%2B-007ACC?&style-for-the-badge&logo=CompTIA&logoColor=white" />
+
